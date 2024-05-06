@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5qu4llv777" alt="5qu4llv777" /></a> </p>
 
-- 🔭 Eu estou trabalhando e aprendendo neste projeto [dio-lab-open-source](https://github.com/5qU4llV777/dio-lab-open-source/tree/main)
+- 🔭 Eu estou trabalhando e aprendendo neste projeto [dio.me](https://www.dio.me/users/claudio_nogueira888)
 
 - 📫 você me encontra por este email **claudio.nogueira888@hotmail.com**
 
