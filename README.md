@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Claudio nogueira</h1>
-<h3 align="center">Apaixonado por ciência e analise de dados, e Machine Learning no mundo digital</h3>
+<h3 align="center">Apaixonado por Back-end e analise de dados, e Machine Learning no mundo digital</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5qu4llv777&label=Profile%20views&color=0e75b6&style=flat" alt="5qu4llv777" /> </p>
 
