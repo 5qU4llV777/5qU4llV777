@@ -9,7 +9,15 @@
 
 ---
 
-- 🔭 Atualmente desenvolvendo projetos na [dio.me](https://www.dio.me/users/claudio_nogueira888)  
+- 🔭 Atualmente desenvolvendo projetos na [dio.me](https://www.dio.me/users/claudio_nogueira888)
+- [portfolio-ia](https://github.com/5qU4llV777/portfolio-ia/blob/main/README.md)
+- [portfolio-backend](https://github.com/5qU4llV777/portfolio-backend/blob/main/README.md)
+- [portfolio-frontend](https://github.com/5qU4llV777/portfolio-frontend/blob/main/README.md)
+- [portfolio-analise-de-dados](https://github.com/5qU4llV777/portfolio-analise-de-dados/blob/main/README.md)
+- [portfolio-certificados](https://github.com/5qU4llV777/portfolio-certificados/blob/main/README.md)
+- [portfolio-QA](https://github.com/5qU4llV777/portfolio-QA/blob/main/README.md)
+- [portfolio-curriculo](https://github.com/5qU4llV777/portfolio-curriculo/blob/main/README.md)
+- [portfolio-salesforce](https://github.com/5qU4llV777/portfolio-salesforce/blob/main/README.md)
 - 📫 Contato: **claudio.nogueira888@hotmail.com**  
 - 🌐 LinkedIn: [Claudio Nogueira](https://www.linkedin.com/in/claudio-nogueira-6172649b)
 
